@@ -1,4 +1,4 @@
-# React Reference Guide
+# React Hooks & Patterns Reference Guide
 
 A comprehensive guide to React concepts, patterns, and best practices. This repository serves as a quick reference for both beginners and experienced developers.
 
@@ -6,6 +6,7 @@ A comprehensive guide to React concepts, patterns, and best practices. This repo
 - [ReactElements.md](./ReactElements.md) - Core React elements and fundamentals
 - [ReactBasics.md](./ReactBasics.md) - Essential React concepts and usage
 - [AdvancedReact.md](./AdvancedReact.md) - Advanced patterns and optimization
+- [CollectTrackerReactExample.md](./CollectTrackerReactExample.md) - Real-world implementation examples
 
 ## ReactElements.md
 Covers fundamental React concepts including:
@@ -36,10 +37,21 @@ Advanced React patterns and optimization techniques including:
 - Advanced component patterns
 - Testing with React Testing Library
 
+## CollectTrackerReactExample.md
+Real-world implementation examples from the CollectTracker application:
+- Form handling with hooks (AddCollectionForm)
+- List rendering patterns (CollectionList)
+- Modal implementation (PhotoGalleryModal)
+- Search and filter functionality (SearchSortControls)
+- Component structure and routing (App.js)
+
+Each example demonstrates practical applications of React hooks and patterns in a production-ready application, with code snippets and detailed explanations of the techniques used.
+
 ## Getting Started
 1. Clone this repository
 2. Navigate to specific guides based on your needs
 3. Use the code examples as reference for your projects
+4. Explore the CollectTracker examples to see patterns in action
 
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests to improve the guides or add new content.
