@@ -14,7 +14,7 @@ This document analyzes real-world React hooks and patterns from the CollectTrack
 
 ## Form Handling with Hooks
 
-**File:** [client/src/components/AddCollectionForm.js](Link to file)
+**File:** [client/src/components/AddCollectionForm.js]([Link to file](https://github.com/Bighairymtnman/CollectTracker/blob/main/client/src/components/AddCollectionForm.js))
 
 The `AddCollectionForm` component demonstrates several important React patterns for form handling:
 
@@ -149,7 +149,7 @@ const AddCollectionForm = ({ onCollectionAdded }) => {
 
 ## List Rendering Patterns
 
-**File:** [client/src/components/CollectionList.js](Link to file)
+**File:** [client/src/components/CollectionList.js]([Link to file](https://github.com/Bighairymtnman/CollectTracker/blob/main/client/src/components/CollectionList.js))
 
 The `CollectionList` component demonstrates advanced patterns for rendering lists with filtering, sorting, and CRUD operations:
 
@@ -385,7 +385,7 @@ This component demonstrates advanced React patterns for list management, includi
 
 ## Modal Implementation
 
-**File:** [client/src/components/PhotoGalleryModal.js](Link to file)
+**File:** [client/src/components/PhotoGalleryModal.js]([Link to file](https://github.com/Bighairymtnman/CollectTracker/blob/main/client/src/components/PhotoGalleryModal.js))
 
 The `PhotoGalleryModal` component demonstrates advanced React patterns for modal interfaces and image handling:
 
@@ -507,7 +507,7 @@ This component showcases advanced React patterns for building interactive modal 
 
 ## Search and Filter Functionality
 
-**File:** [client/src/components/SearchSortControls.js](Link to file)
+**File:** [client/src/components/SearchSortControls.js]([Link to file](https://github.com/Bighairymtnman/CollectTracker/blob/main/client/src/components/SearchSortControls.js))
 
 The `SearchSortControls` component demonstrates React patterns for creating reusable, controlled components:
 
@@ -601,7 +601,7 @@ This component demonstrates how to create flexible, reusable UI components that 
 
 ## Component Structure and Routing
 
-**File:** [client/src/App.js](Link to file)
+**File:** [client/src/App.js]([Link to file](https://github.com/Bighairymtnman/CollectTracker/blob/main/client/src/App.js))
 
 The `App` component demonstrates React patterns for application structure and routing:
 
